@@ -80,7 +80,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhayt1912&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhayt1912&theme=algolia&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
 ---
