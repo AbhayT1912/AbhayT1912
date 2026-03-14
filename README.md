@@ -77,10 +77,10 @@
 
 ---
 
-# 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhayt1912&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhayt1912&theme=algolia&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
 ---
