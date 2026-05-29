@@ -27,7 +27,7 @@
 
 # 🏆 Achievements
 
-- 🥇 **Team Astra — 7th Rank at ASEC Hackathon**
+- 🥇 **Team AstraX — 7th Rank at ACEHACK Hackathon**
 - 🏅 Participated in **Flipkart GRiD 6.0**
 - 🏅 Participated in **CODE RED Hackathon (NIT Surathkal)**
 
